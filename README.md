@@ -2,7 +2,7 @@
 
 <!--
 **DavidMasimo/DavidMasimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Profile Readme: Add a README.md to your profile (github.com/yourusername/README.md) that introduces yourself, your skills, and key projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
