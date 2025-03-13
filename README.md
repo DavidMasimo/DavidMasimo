@@ -5,9 +5,9 @@ I’m an Electronics Engineering Technology student at NSCC, graduating in Decem
 I enjoy working on hardware projects that bridge electronics and software.
 
 ## 🔧 Skills & Tools:
--Programming: C, Assembly (PIC microcontrollers)
+-Programming: C,C++
 
--Embedded Systems: PIC18F45K20, UART, ADC
+-Embedded Systems: PIC18F45K20,IoT
 
 -Circuit Design & Testing: Multisim, AutoCAD, LabVIEW
 
